@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9f874a7b-2b56-482d-4f2e-5de7a0a684a3
 resourcetype: Document
 title: talk_wong.pdf
 uid: 4779a14f-160a-725f-10c4-63b60d5e1d96

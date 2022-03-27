@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9f874a7b-2b56-482d-4f2e-5de7a0a684a3
 resourcetype: Document
 title: wong.pdf
 uid: 2f53884e-4a1c-9433-4a0d-8309e91d66bc

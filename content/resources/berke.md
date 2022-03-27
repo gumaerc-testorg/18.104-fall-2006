@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9f874a7b-2b56-482d-4f2e-5de7a0a684a3
 resourcetype: Document
 title: berke.pdf
 uid: ba06bc66-574b-1ea6-affc-aec23ef5c33b
