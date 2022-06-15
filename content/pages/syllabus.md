@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about Prerequisite, Textbook,Format
+  and Expectations,Assignments & Exams and the grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -42,7 +44,7 @@ The students will take turn in giving presentations. One such presentation (in t
 
 ### Paper
 
-One paper on a topic related to the course of approximately ten pages will be required. It must be written in Latex. See some instructions and helpful information about writing mathematics and using Latex in the [related resources section]({{< baseurl >}}/pages/related-resources).
+One paper on a topic related to the course of approximately ten pages will be required. It must be written in Latex. See some instructions and helpful information about writing mathematics and using Latex in the {{% resource_link 6eb70d4e-8b33-1f27-621d-f63f43618f29 "related resources section" %}}.
 
 The writing should be aimed at a typical MIT math major, and it should reflect your own understanding of the subject. Please also review the MIT published handbook on academic integrity and avoiding plagiarism, and the guide on general scientific writing (both found in the related resources section).
 

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains sample student projects from the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -49,10 +50,10 @@ The Sine Product Formula and the Gamma Function
 Erica Chan
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/talk_chan))
+({{% resource_link 4ebddf90-7ab0-739a-7561-95b720f6d23f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chan))
+({{% resource_link 58778de0-faae-6448-c3b0-bfb1a1ec4f7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +65,7 @@ Stirling's Formula: An Approximation of the Factorial
 Eric Gilbertson
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/talk_gilbertson))
+({{% resource_link 601f9538-6771-55d1-a53e-7482c41daac8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -79,10 +80,10 @@ Twin Prime Conjecture
 Allison Berke
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/talk_berke))
+({{% resource_link 94e07c13-c26c-e736-bd86-0cc194db4342 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/berke))
+({{% resource_link ba06bc66-574b-1ea6-affc-aec23ef5c33b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,10 +95,10 @@ Average Values of Arithmetic Functions
 Rose Wong
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/talk_wong))
+({{% resource_link 4779a14f-160a-725f-10c4-63b60d5e1d96 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/wong))
+({{% resource_link 2f53884e-4a1c-9433-4a0d-8309e91d66bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,10 +110,10 @@ The Golden Ratio
 Agustinus Peter Sahanggamu
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/talk_peter_s))
+({{% resource_link 6785d40d-8b72-a201-9dd1-23b56c15908c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/peter_s))
+({{% resource_link 64f808cb-c8a0-97da-d504-f7ef6eb85b6a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
