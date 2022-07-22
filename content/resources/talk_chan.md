@@ -6,6 +6,7 @@ file: /courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: talk_chan.pdf
 uid: 4ebddf90-7ab0-739a-7561-95b720f6d23f
 ---
 This resource covers Weierstrass?product formula, Multiplication formula, Sine and Gamma functions, applications of Sine product formula.
-

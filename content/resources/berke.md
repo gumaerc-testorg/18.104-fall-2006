@@ -6,6 +6,7 @@ file: /courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: berke.pdf
 uid: ba06bc66-574b-1ea6-affc-aec23ef5c33b
 ---
 This resource contains a brief introduction to the twin prime conjecture, and explains the Mertens? theorems.
-

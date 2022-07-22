@@ -5,6 +5,7 @@ file: /courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: talk_gilbertson.pdf
 uid: 601f9538-6771-55d1-a53e-7482c41daac8
 ---
 This resource covers the gamma function, and the Stirling's formula.
-

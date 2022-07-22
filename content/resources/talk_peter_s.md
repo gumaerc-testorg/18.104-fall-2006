@@ -6,6 +6,7 @@ file: /courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: talk_peter_s.pdf
 uid: 6785d40d-8b72-a201-9dd1-23b56c15908c
 ---
 This resource contains geometric definition, relation with fibonacci numbers, Euclidean geometric construction, continuous fraction representation.
-

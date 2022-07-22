@@ -6,6 +6,7 @@ file: /courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: talk_berke.pdf
 uid: 94e07c13-c26c-e736-bd86-0cc194db4342
 ---
 This resource covers Introduction, Mertens?theorems, Brun?s conjecture and contains exercises for the course.
-

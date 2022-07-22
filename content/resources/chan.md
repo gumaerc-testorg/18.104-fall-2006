@@ -5,6 +5,7 @@ file: /courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chan.pdf
 uid: 58778de0-faae-6448-c3b0-bfb1a1ec4f7a
 ---
 This resource contains an introduction, Weierstrass? product formula.
-
