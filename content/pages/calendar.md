@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: 'This section contains the table which includes the session,topic and
+description: 'This section contains the table which includes the session topic and
   key dates for Seminar in Analysis: Applications to Number Theory.'
 draft: false
 learning_resource_types: []
