@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource briefly explains the average values of arithmetic functions.
-file: /ol-ocw-studio-app/courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-2006/2f53884e4a1c94334a0d8309e91d66bc_wong.pdf
+file: /courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-2006/2f53884e4a1c94334a0d8309e91d66bc_wong.pdf
 file_size: 135512
 file_type: application/pdf
 learning_resource_types:
