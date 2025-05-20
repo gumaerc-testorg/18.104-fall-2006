@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource covers the gamma function, and the Stirling's formula.
-file: /ol-ocw-studio-app/courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-2006/601f9538677155d1a53e7482c41daac8_talk_gilbertson.pdf
+file: /courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-2006/601f9538677155d1a53e7482c41daac8_talk_gilbertson.pdf
 file_size: 188934
 file_type: application/pdf
 learning_resource_types:
