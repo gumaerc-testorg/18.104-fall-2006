@@ -138,7 +138,7 @@ Exercises 13 and 14; pp. 264-267.
 {{< tdclose >}}{{< tdopen >}}
 Elementary Proof of The Prime Number Theorem I
 {{< tdclose >}}{{< tdopen >}}
-Following M. Nathanson's "Elementary methods in number theory.": Chebyshev's Functions and Theorems. For a historical account, see D. Goldfeld's Note. ({{% resource_link "2e345719-f80a-4927-ba7a-3595494a46fa" "PDF" %}})
+Following M. Nathanson's "Elementary methods in number theory.": Chebyshev's Functions and Theorems. For a historical account, see D. Goldfeld's Note. ([PDF](http://www.math.columbia.edu/~goldfeld/ErdosSelbergDispute.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
@@ -171,14 +171,14 @@ Short Analytic Proof of The Prime Number Theorem II: The Connection between PNT 
 
 An Expository Paper:
 
-Conrey, J. Brian. The Riemann Hypothesis in the "Notices of the AMS". ({{% resource_link "b11207da-8900-4a30-9e6c-5a1a9a209d4d" "PDF" %}})
+Conrey, J. Brian. The Riemann Hypothesis in the "Notices of the AMS". ([PDF](http://www.ams.org/notices/200303/fea-conrey-web.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
 Discussion on the First Draft of the Papers and Some Hints on How to Improve the Exposition and Use of Latex
 {{< tdclose >}}{{< tdopen >}}
-References: Knuth, Larrabee, and S. Kleiman Roberts. ({{% resource_link "27ea6b96-0647-46ef-879f-49b930c021f6" "PDF" %}})
+References: Knuth, Larrabee, and S. Kleiman Roberts. ([PDF](http://tex.loria.fr/typographie/mathwriting.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
